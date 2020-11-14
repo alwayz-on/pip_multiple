@@ -1,5 +1,5 @@
 # pip_multiple
-Playing youtube videos on mute in resizable windows floating on-top.
+Play youtube videos on mute in resizable windows floating on-top.
 
 ![](demo.gif)
 
